@@ -1,14 +1,14 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - Xploror
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - Xploror/GNC_LQG_missile_strike
+  - Xploror/LQR_control_Launch_vehicle
+  - Xploror/Celestial-N-body-problems
+  - Xploror/MPC-Control-Design
+  - Xploror/Swarm-Optimization
+  - Xploror/Simulink-Drone_Model
+  - SpaceNetTestbed-public/SpaceNetPhase1
+  - SpaceNetTestbed-public/SpaceNetPhase2
